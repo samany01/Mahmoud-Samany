@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @samany01
+- 👋 Hi, I’m Mahmoud Samany
+- 🚂 I'm mechanical engineer 
 - 👀 I’m interested in creative projects
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on nanotechnology 
+- 💞️ I’m looking to learn about nanotechnology 
 - 📫 How to reach me mahmoudsamany36@gmail.com
 
 <!---
